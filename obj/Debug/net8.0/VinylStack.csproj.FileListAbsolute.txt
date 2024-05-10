@@ -1,0 +1,14 @@
+C:\Users\Jake\Documents\IT327\VinylStack\VinylStack\bin\Debug\net8.0\VinylStack.exe
+C:\Users\Jake\Documents\IT327\VinylStack\VinylStack\bin\Debug\net8.0\VinylStack.deps.json
+C:\Users\Jake\Documents\IT327\VinylStack\VinylStack\bin\Debug\net8.0\VinylStack.runtimeconfig.json
+C:\Users\Jake\Documents\IT327\VinylStack\VinylStack\bin\Debug\net8.0\VinylStack.dll
+C:\Users\Jake\Documents\IT327\VinylStack\VinylStack\bin\Debug\net8.0\VinylStack.pdb
+C:\Users\Jake\Documents\IT327\VinylStack\VinylStack\obj\Debug\net8.0\VinylStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\Documents\IT327\VinylStack\VinylStack\obj\Debug\net8.0\VinylStack.AssemblyInfoInputs.cache
+C:\Users\Jake\Documents\IT327\VinylStack\VinylStack\obj\Debug\net8.0\VinylStack.AssemblyInfo.cs
+C:\Users\Jake\Documents\IT327\VinylStack\VinylStack\obj\Debug\net8.0\VinylStack.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Documents\IT327\VinylStack\VinylStack\obj\Debug\net8.0\VinylStack.dll
+C:\Users\Jake\Documents\IT327\VinylStack\VinylStack\obj\Debug\net8.0\refint\VinylStack.dll
+C:\Users\Jake\Documents\IT327\VinylStack\VinylStack\obj\Debug\net8.0\VinylStack.pdb
+C:\Users\Jake\Documents\IT327\VinylStack\VinylStack\obj\Debug\net8.0\VinylStack.genruntimeconfig.cache
+C:\Users\Jake\Documents\IT327\VinylStack\VinylStack\obj\Debug\net8.0\ref\VinylStack.dll
