@@ -283,7 +283,7 @@ class RecordPlayer
         jukeBox.Push(rainsOfCastamere);
         jukeBox.Push(megalovania);
 
-        Console.WriteLine("Welcome to the jukebox!");
+        Console.WriteLine("Welcome to the jukebox!!!");
         Console.WriteLine();
         Console.WriteLine("Type \"top\" to get the record on top of the vinyl stack.");
         Console.WriteLine("Type \"replay\" to play a record again.");
